@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+bcd_to_display	led.c	/^void bcd_to_display(uint32_t bcd_data)$/;"	f
+blink_led	led.c	/^void blink_led(uint8_t gpio_anode,uint8_t gpio_cathode)$/;"	f
+blink_led_struct	led.c	/^void blink_led_struct(Led led)$/;"	f
+led_array	led.c	/^Led led_array[21]={{LED_CTRL_3,LED_CTRL_0},$/;"	v
+led_test	led.c	/^void led_test(void)$/;"	f
+led_test_array	led.c	/^void led_test_array(Led *led_arr)$/;"	f
+main	main.c	/^int main(void)$/;"	f
+set_time	led.c	/^void set_time(uint8_t hours,uint8_t min,uint8_t sec,Time *time_struct)$/;"	f
+time_to_binary	led.c	/^void time_to_binary(Time time)$/;"	f
